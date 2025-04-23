@@ -1,5 +1,5 @@
-#ifndef _NET_HPP
-#define _NET_HPP
+#ifndef _BIG_ENDIAN_HPP
+#define _BIG_ENDIAN_HPP
 
 #include <array>
 #include <vector>

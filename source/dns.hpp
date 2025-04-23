@@ -6,7 +6,7 @@
 
 #include <asio.hpp>
 
-#include "net.hpp"
+#include "big_endian.hpp"
 
 #ifdef IN
 #undef IN

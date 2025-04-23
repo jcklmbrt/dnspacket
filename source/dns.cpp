@@ -1,5 +1,6 @@
 #include "pch.hpp"
 #include "dns.hpp"
+#include "big_endian.hpp"
 
 namespace be = big_endian;
 
